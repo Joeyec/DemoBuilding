@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: c6ff4ebfd83321c4db042b46422d700a
+timeCreated: 1488250866
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh
+    100004: Mesh 1
+    100006: Mesh 10
+    100008: Mesh 11
+    100010: Mesh 12
+    100012: Mesh 13
+    100014: Mesh 14
+    100016: Mesh 15
+    100018: Mesh 16
+    100020: Mesh 17
+    100022: Mesh 18
+    100024: Mesh 19
+    100026: Mesh 2
+    100028: Mesh 20
+    100030: Mesh 21
+    100032: Mesh 22
+    100034: Mesh 23
+    100036: Mesh 24
+    100038: Mesh 25
+    100040: Mesh 26
+    100042: Mesh 27
+    100044: Mesh 28
+    100046: Mesh 29
+    100048: Mesh 3
+    100050: Mesh 30
+    100052: Mesh 30_MeshPart0
+    100054: Mesh 30_MeshPart1
+    100056: Mesh 30_MeshPart2
+    100058: Mesh 31
+    100060: Mesh 32
+    100062: Mesh 33
+    100064: Mesh 34
+    100066: Mesh 35
+    100068: Mesh 36
+    100070: Mesh 37
+    100072: Mesh 38
+    100074: Mesh 39
+    100076: Mesh 4
+    100078: Mesh 40
+    100080: Mesh 41
+    100082: Mesh 42
+    100084: Mesh 43
+    100086: Mesh 44
+    100088: Mesh 45
+    100090: Mesh 46
+    100092: Mesh 47
+    100094: Mesh 48
+    100096: Mesh 49
+    100098: Mesh 5
+    100100: Mesh 50
+    100102: Mesh 51
+    100104: Mesh 52
+    100106: Mesh 53
+    100108: Mesh 54
+    100110: Mesh 55
+    100112: Mesh 56
+    100114: Mesh 57
+    100116: Mesh 58
+    100118: Mesh 59
+    100120: Mesh 6
+    100122: Mesh 60
+    100124: Mesh 7
+    100126: Mesh 8
+    100128: Mesh 9
+    400000: //RootNode
+    400002: Mesh
+    400004: Mesh 1
+    400006: Mesh 10
+    400008: Mesh 11
+    400010: Mesh 12
+    400012: Mesh 13
+    400014: Mesh 14
+    400016: Mesh 15
+    400018: Mesh 16
+    400020: Mesh 17
+    400022: Mesh 18
+    400024: Mesh 19
+    400026: Mesh 2
+    400028: Mesh 20
+    400030: Mesh 21
+    400032: Mesh 22
+    400034: Mesh 23
+    400036: Mesh 24
+    400038: Mesh 25
+    400040: Mesh 26
+    400042: Mesh 27
+    400044: Mesh 28
+    400046: Mesh 29
+    400048: Mesh 3
+    400050: Mesh 30
+    400052: Mesh 30_MeshPart0
+    400054: Mesh 30_MeshPart1
+    400056: Mesh 30_MeshPart2
+    400058: Mesh 31
+    400060: Mesh 32
+    400062: Mesh 33
+    400064: Mesh 34
+    400066: Mesh 35
+    400068: Mesh 36
+    400070: Mesh 37
+    400072: Mesh 38
+    400074: Mesh 39
+    400076: Mesh 4
+    400078: Mesh 40
+    400080: Mesh 41
+    400082: Mesh 42
+    400084: Mesh 43
+    400086: Mesh 44
+    400088: Mesh 45
+    400090: Mesh 46
+    400092: Mesh 47
+    400094: Mesh 48
+    400096: Mesh 49
+    400098: Mesh 5
+    400100: Mesh 50
+    400102: Mesh 51
+    400104: Mesh 52
+    400106: Mesh 53
+    400108: Mesh 54
+    400110: Mesh 55
+    400112: Mesh 56
+    400114: Mesh 57
+    400116: Mesh 58
+    400118: Mesh 59
+    400120: Mesh 6
+    400122: Mesh 60
+    400124: Mesh 7
+    400126: Mesh 8
+    400128: Mesh 9
+    2300000: Mesh
+    2300002: Mesh 1
+    2300004: Mesh 10
+    2300006: Mesh 11
+    2300008: Mesh 12
+    2300010: Mesh 13
+    2300012: Mesh 14
+    2300014: Mesh 15
+    2300016: Mesh 16
+    2300018: Mesh 17
+    2300020: Mesh 18
+    2300022: Mesh 19
+    2300024: Mesh 2
+    2300026: Mesh 20
+    2300028: Mesh 21
+    2300030: Mesh 22
+    2300032: Mesh 23
+    2300034: Mesh 24
+    2300036: Mesh 25
+    2300038: Mesh 26
+    2300040: Mesh 27
+    2300042: Mesh 28
+    2300044: Mesh 29
+    2300046: Mesh 3
+    2300048: Mesh 30_MeshPart0
+    2300050: Mesh 30_MeshPart1
+    2300052: Mesh 30_MeshPart2
+    2300054: Mesh 31
+    2300056: Mesh 32
+    2300058: Mesh 33
+    2300060: Mesh 34
+    2300062: Mesh 35
+    2300064: Mesh 36
+    2300066: Mesh 37
+    2300068: Mesh 38
+    2300070: Mesh 39
+    2300072: Mesh 4
+    2300074: Mesh 40
+    2300076: Mesh 41
+    2300078: Mesh 42
+    2300080: Mesh 43
+    2300082: Mesh 44
+    2300084: Mesh 45
+    2300086: Mesh 46
+    2300088: Mesh 47
+    2300090: Mesh 48
+    2300092: Mesh 49
+    2300094: Mesh 5
+    2300096: Mesh 50
+    2300098: Mesh 51
+    2300100: Mesh 52
+    2300102: Mesh 53
+    2300104: Mesh 54
+    2300106: Mesh 55
+    2300108: Mesh 56
+    2300110: Mesh 57
+    2300112: Mesh 58
+    2300114: Mesh 59
+    2300116: Mesh 6
+    2300118: Mesh 60
+    2300120: Mesh 7
+    2300122: Mesh 8
+    2300124: Mesh 9
+    3300000: Mesh
+    3300002: Mesh 1
+    3300004: Mesh 10
+    3300006: Mesh 11
+    3300008: Mesh 12
+    3300010: Mesh 13
+    3300012: Mesh 14
+    3300014: Mesh 15
+    3300016: Mesh 16
+    3300018: Mesh 17
+    3300020: Mesh 18
+    3300022: Mesh 19
+    3300024: Mesh 2
+    3300026: Mesh 20
+    3300028: Mesh 21
+    3300030: Mesh 22
+    3300032: Mesh 23
+    3300034: Mesh 24
+    3300036: Mesh 25
+    3300038: Mesh 26
+    3300040: Mesh 27
+    3300042: Mesh 28
+    3300044: Mesh 29
+    3300046: Mesh 3
+    3300048: Mesh 30_MeshPart0
+    3300050: Mesh 30_MeshPart1
+    3300052: Mesh 30_MeshPart2
+    3300054: Mesh 31
+    3300056: Mesh 32
+    3300058: Mesh 33
+    3300060: Mesh 34
+    3300062: Mesh 35
+    3300064: Mesh 36
+    3300066: Mesh 37
+    3300068: Mesh 38
+    3300070: Mesh 39
+    3300072: Mesh 4
+    3300074: Mesh 40
+    3300076: Mesh 41
+    3300078: Mesh 42
+    3300080: Mesh 43
+    3300082: Mesh 44
+    3300084: Mesh 45
+    3300086: Mesh 46
+    3300088: Mesh 47
+    3300090: Mesh 48
+    3300092: Mesh 49
+    3300094: Mesh 5
+    3300096: Mesh 50
+    3300098: Mesh 51
+    3300100: Mesh 52
+    3300102: Mesh 53
+    3300104: Mesh 54
+    3300106: Mesh 55
+    3300108: Mesh 56
+    3300110: Mesh 57
+    3300112: Mesh 58
+    3300114: Mesh 59
+    3300116: Mesh 6
+    3300118: Mesh 60
+    3300120: Mesh 7
+    3300122: Mesh 8
+    3300124: Mesh 9
+    4300000: Mesh
+    4300002: Mesh
+    4300004: Mesh
+    4300006: Mesh
+    4300008: Mesh
+    4300010: Mesh
+    4300012: Mesh
+    4300014: Mesh
+    4300016: Mesh
+    4300018: Mesh
+    4300020: Mesh
+    4300022: Mesh
+    4300024: Mesh
+    4300026: Mesh
+    4300028: Mesh
+    4300030: Mesh
+    4300032: Mesh
+    4300034: Mesh
+    4300036: Mesh
+    4300038: Mesh
+    4300040: Mesh
+    4300042: Mesh
+    4300044: Mesh
+    4300046: Mesh
+    4300048: Mesh
+    4300050: Mesh
+    4300052: Mesh
+    4300054: Mesh
+    4300056: Mesh
+    4300058: Mesh
+    4300060: Mesh_MeshPart0
+    4300062: Mesh_MeshPart1
+    4300064: Mesh_MeshPart2
+    4300066: Mesh
+    4300068: Mesh
+    4300070: Mesh
+    4300072: Mesh
+    4300074: Mesh
+    4300076: Mesh
+    4300078: Mesh
+    4300080: Mesh
+    4300082: Mesh
+    4300084: Mesh
+    4300086: Mesh
+    4300088: Mesh
+    4300090: Mesh
+    4300092: Mesh
+    4300094: Mesh
+    4300096: Mesh
+    4300098: Mesh
+    4300100: Mesh
+    4300102: Mesh
+    4300104: Mesh
+    4300106: Mesh
+    4300108: Mesh
+    4300110: Mesh
+    4300112: Mesh
+    4300114: Mesh
+    4300116: Mesh
+    4300118: Mesh
+    4300120: Mesh
+    4300122: Mesh
+    4300124: Mesh
+    6400000: Mesh
+    6400002: Mesh 1
+    6400004: Mesh 10
+    6400006: Mesh 11
+    6400008: Mesh 12
+    6400010: Mesh 13
+    6400012: Mesh 14
+    6400014: Mesh 15
+    6400016: Mesh 16
+    6400018: Mesh 17
+    6400020: Mesh 18
+    6400022: Mesh 19
+    6400024: Mesh 2
+    6400026: Mesh 20
+    6400028: Mesh 21
+    6400030: Mesh 22
+    6400032: Mesh 23
+    6400034: Mesh 24
+    6400036: Mesh 25
+    6400038: Mesh 26
+    6400040: Mesh 27
+    6400042: Mesh 28
+    6400044: Mesh 29
+    6400046: Mesh 3
+    6400048: Mesh 30_MeshPart0
+    6400050: Mesh 30_MeshPart1
+    6400052: Mesh 30_MeshPart2
+    6400054: Mesh 31
+    6400056: Mesh 32
+    6400058: Mesh 33
+    6400060: Mesh 34
+    6400062: Mesh 35
+    6400064: Mesh 36
+    6400066: Mesh 37
+    6400068: Mesh 38
+    6400070: Mesh 39
+    6400072: Mesh 4
+    6400074: Mesh 40
+    6400076: Mesh 41
+    6400078: Mesh 42
+    6400080: Mesh 43
+    6400082: Mesh 44
+    6400084: Mesh 45
+    6400086: Mesh 46
+    6400088: Mesh 47
+    6400090: Mesh 48
+    6400092: Mesh 49
+    6400094: Mesh 5
+    6400096: Mesh 50
+    6400098: Mesh 51
+    6400100: Mesh 52
+    6400102: Mesh 53
+    6400104: Mesh 54
+    6400106: Mesh 55
+    6400108: Mesh 56
+    6400110: Mesh 57
+    6400112: Mesh 58
+    6400114: Mesh 59
+    6400116: Mesh 6
+    6400118: Mesh 60
+    6400120: Mesh 7
+    6400122: Mesh 8
+    6400124: Mesh 9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

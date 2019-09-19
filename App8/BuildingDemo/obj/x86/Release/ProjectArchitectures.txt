@@ -1,0 +1,2 @@
+D:\UnityProject\Unity2017.4.3f1\BuildingDemo\App8\BuildingDemo\BuildingDemo.csproj;x86
+D:\UnityProject\Unity2017.4.3f1\BuildingDemo\App8\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
